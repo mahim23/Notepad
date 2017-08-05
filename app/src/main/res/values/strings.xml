@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="action_settings">Settings</string>
+    <string name="type_here">Type Here...</string>
+    <string name="title_activity_note_select">NoteSelect</string>
+    <string name="title">Title</string>
+    <string name="description">Click NEW NOTE FAB below to create a new note.</string>
+    <string name="delete_button">delete_button</string>
+</resources>
